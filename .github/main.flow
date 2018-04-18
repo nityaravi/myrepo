@@ -1,7 +1,7 @@
 task "ci" {
   use = "google-container-builder"
 
-  config = "nitya.txt"
+  config = "nitya1.txt"
 
   # Choose a CI provider
 }
